@@ -21,7 +21,12 @@ Web Development •
 MacOS •
 Linux •
 NeoVim •
-Visual Studio Code
+Test Driven Development •
+Visual Studio Code •
+Open Source •
+Command Line Interfaces •
+DevOps •
+Automating all the things
 
 ### Things I also like
 
@@ -31,9 +36,13 @@ Playing guitar •
 Singing •
 Writing •
 Reading •
+Curating Playlists •
+Cooking •
 Philosophy •
 Psychology •
 Mechanical Keyboards •
 Personal Development •
+Gaming •
 People •
+Instrumental Music •
 Silence
