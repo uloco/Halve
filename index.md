@@ -2,11 +2,38 @@
 layout: home
 ---
 
-# About me
+## Hey there!
 
-I'm a guy who studied Electronics, working as a Software Engineer,
-being interested in personal development and trying to be an artist, designer,
-musician, sportsman, cook, linux lover, open source supporter, gamer,
-mechanical keyboard geek and overall project maniac in his spare time.
+I'm Umut, nice to meet you!  
+I am a Senior Sotware Engineer focused on UI and UX development & design,
+currently working at _GROB-WERKE_ in Mindelheim, Germany.
 
-But most of the time, I'm just a normal guy.
+Feel free to contact me about anything on your mind.
+
+### Things I like
+
+JavaScript •
+TypeScript •
+React •
+ReasonML •
+Functional Programming •
+Web Development •
+MacOS •
+Linux •
+NeoVim •
+Visual Studio Code
+
+### Things I also like
+
+Drawing •
+Painting •
+Playing guitar •
+Singing •
+Writing •
+Reading •
+Philosophy •
+Psychology •
+Mechanical Keyboards •
+Personal Development •
+People •
+Silence
