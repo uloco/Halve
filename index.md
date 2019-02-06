@@ -1,10 +1,13 @@
 ---
 layout: home
 ---
-# About Theme
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+# Umut Topuzoğlu
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+I'm a guy who studied Electronics, working as a Software Engineer, being interested in personal development and trying
+to be an artist, designer, musician, sportsman, cook, linux lover, open source supporter, gamer,
+mechanical keyboard geek and overall project maniac in his spare time.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+But most of the time, I'm just a normal guy.
+
+:)
