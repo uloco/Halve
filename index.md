@@ -25,8 +25,7 @@ Test Driven Development •
 Visual Studio Code •
 Open Source •
 Command Line Interfaces •
-DevOps •
-Automating all the things
+DevOps
 
 ### Things I also like
 
@@ -34,9 +33,10 @@ Drawing •
 Painting •
 Playing guitar •
 Singing •
+Curating Playlists •
+Instrumental Music •
 Writing •
 Reading •
-Curating Playlists •
 Cooking •
 Philosophy •
 Psychology •
@@ -44,5 +44,4 @@ Mechanical Keyboards •
 Personal Development •
 Gaming •
 People •
-Instrumental Music •
 Silence
