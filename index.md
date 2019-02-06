@@ -21,17 +21,19 @@ Web Development •
 MacOS •
 Linux •
 NeoVim •
+Git •
 Test Driven Development •
 Visual Studio Code •
-Open Source •
-Command Line Interfaces •
-DevOps
+Open Source Software •
+Shell •
+DevOps •
+Tooling
 
 ### Things I also like
 
 Drawing •
 Painting •
-Playing guitar •
+Playing Guitar •
 Singing •
 Curating Playlists •
 Instrumental Music •
