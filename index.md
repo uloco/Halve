@@ -6,7 +6,7 @@ layout: home
 
 I'm Umut, nice to meet you!  
 I am a Senior Sotware Engineer focused on UI and UX development & design,
-currently working at ![emax-digital](https://www.emax-digital.com/) in Munich, Germany.
+currently working at [emax-digital](https://www.emax-digital.com/) in Munich, Germany.
 
 Feel free to contact me about anything on your mind.
 
