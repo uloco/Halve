@@ -45,5 +45,4 @@ Psychology •
 Mechanical Keyboards •
 Personal Development •
 Gaming •
-People •
-Silence
+People
