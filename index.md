@@ -5,8 +5,8 @@ layout: home
 ## Hey there!
 
 I'm Umut, nice to meet you!  
-I am a Senior Sotware Engineer focused on UI and UX development & design,
-currently working at [Smokeless](https://smokeless.world) in Munich, Germany.
+I'm a Lead Software Engineer focused on UI and UX development & design.
+Currently in Munich, Germany.
 
 Feel free to contact me about anything on your mind.
 
